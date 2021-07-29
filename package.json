@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akabab/superhero-api.git"
+    "url": "git+https://github.com/mikegoescoding/superhero-api.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/akabab/superhero-api/issues"
+    "url": "https://github.com/mikegoescoding/superhero-api/issues"
   },
-  "homepage": "https://github.com/akabab/superhero-api#readme"
+  "homepage": "https://github.com/mikegoescoding/superhero-api#readme"
 }
